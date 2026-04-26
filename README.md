@@ -1,4 +1,4 @@
-<!-- 🔥 CUSTOM BANNER -->
+<!-- 🔥 HEADER BANNER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vishal%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
@@ -12,13 +12,13 @@
 
 ---
 
-## 🧊 About Me (Glass Style)
+## 🧊 About Me
 
 ```diff
 + 🎓 Masai School Graduate
-+ 💻 Full Stack Developer (MERN)
-+ ⚡ Building scalable & real-time apps
-+ 🌱 Learning system design & backend depth
++ 💻 Full Stack Developer (MERN Stack)
++ ⚡ Building real-world & scalable applications
++ 🌱 Currently learning backend & system design
 ```
 
 ---
@@ -33,37 +33,49 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 Cric Gyan Admin Portal
+---
+
+### 🎨 Pixel (Creative Platform)
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/HTML-CSS-JS-blue?style=for-the-badge" />
 </p>
 
-📌 Admin dashboard to manage cricket content
+📌 Platform for creatives to showcase work, connect, and build portfolios
+🔗 https://pixelmasai.netlify.app/
 
 ---
 
-### 🎥 Video Streaming App
+### 👗 Frank & Oak Clone (E-Commerce)
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/E--Commerce-UI-green?style=for-the-badge" />
 </p>
 
-📌 YouTube API based streaming & playlist system
+📌 Fashion e-commerce website with modern UI and product browsing
+🔗 https://6641c4a6f60fc17bdb89b7db--cheery-genie-3d5d23.netlify.app/
 
 ---
 
-### 🌍 Travel Planning App
+### 🎓 Coursera Clone
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/EdTech-Platform-orange?style=for-the-badge" />
 </p>
 
-📌 Booking system with dynamic routing
+📌 Online learning platform inspired by Coursera
+🔗 https://coursera-clone-masai.netlify.app/
+
+---
+
+### ✈️ TripFix (Travel UI)
+
+<p>
+  <img src="https://img.shields.io/badge/Travel-UI-purple?style=for-the-badge" />
+</p>
+
+📌 Modern responsive travel UI with animations & clean design
+🔗 https://tripfix.netlify.app/
 
 ---
 
