@@ -1,58 +1,75 @@
-# Hi 👋, I'm Vishal
+# Hi 👋, I'm Vishal Kumar
 
-## 🚀 Full Stack Developer
+## 🚀 Full Stack Developer (MERN)
 
-- 🔭 I'm working on **React & Node.js** projects
-- 🌱 Learning **advanced backend & system design**
-- 💬 Ask me about **MERN stack**
-- ⚡ Fun fact: I love building scalable apps
+💻 Passionate about building scalable and user-friendly web applications  
+🌱 Currently learning advanced backend & system design  
+⚡ Love working on real-time and API-based projects  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React · Redux · Tailwind CSS  
-**Backend:** Node.js · Express  
-**Database:** MongoDB  
+### 🚀 Frontend
+- React.js  
+- Redux Toolkit  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+
+### 🗄️ Database
+- MongoDB  
+
+### 🧰 Tools
+- Git & GitHub  
+- VS Code  
+- Postman  
+
+---
+
+## 📌 Projects
+
+### 🔹 Cric Gyan Admin Portal
+- Admin dashboard for managing cricket content  
+- Role-based authentication  
+- Built with React, Redux, Tailwind  
+
+### 🔹 Video Streaming App
+- YouTube API integration  
+- Playlist & search functionality  
+- Responsive UI with advanced filters  
+
+### 🔹 Travel Planning App
+- Dynamic routing & booking system  
+- Firebase integration  
+- Real-time search with debounce  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalkr-1&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkr-1&layout=compact&theme=tokyonight)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=vishalkr-1&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://your-linkedin-link)
+- 🔗 GitHub: https://github.com/vishalkr-1  
+- 💼 LinkedIn: (add your link here)  
+- 🌐 Portfolio: (add your portfolio link)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## ⚡ Fun Fact
+I turn coffee ☕ into scalable web apps 😄
